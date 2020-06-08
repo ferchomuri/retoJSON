@@ -1,0 +1,135 @@
+{
+  "menu": {
+    "home": {
+      "nameSub": "Home",
+      "news": {
+        "0": {
+          "title": "KIN ANALYTICS PERU",
+          "subtitle": "WE ARE PROUD TO ANNOUNCE THE OPENING OF KIN ANALYTICS IN PERU",
+          "text": "THIS MOVE IS A CRUCIAL STEP IN ACHIEVING KIN ANALYTICS VIVSION OF USING ANALYTICS TO CONNECT DIFFERENT MARKETS, INDUSTRIES AND COMPANIES ACROSS COUNTIRES",
+          "button": "READ MORE"
+        },
+        "1": {
+          "title": "MEET OUR CLUB: ATLÉTICO KIN",
+          "subtitle": "",
+          "text": "THE FIRS ANALYTICALLY DRIVEN FOOTBAL TEAM IN THE WORLD.",
+          "button": "OUR STORY"
+        },
+        "2": {
+          "title": "BECOME ANALYTICALLY DRIVEN",
+          "subtitle": "KIN ANALYTICS OFFERS ANALYTICAL CONSULTING SERVICES FOR ALL TYPES OF COMPANIES, ORGANIZATIONS AND ENTERPRISES AROUND THE WORLD.",
+          "text": "Analytics is today's path to innovation.",
+          "button": "ABOUT US"
+        }
+      }
+    },
+    "servicesProduct": {
+      "nameSub": "Services & Products",
+      "ranking": {
+        "0": "Consulting for IFRS9",
+        "1": "Automated Credit Score",
+        "2": "Stress Testing",
+        "3": "Basel II/III Compliancy",
+        "nameSub": "Ranking - Financial Services"
+      },
+      "kinSports": {
+        "nameSub": "Kin Sports",
+        "sportsAnalytics": {
+          "0": "Statistical Player Evaluation and Projections",
+          "1": "Rival Analysis: Assessment and Preparation Studies",
+          "2": "Team and Player Performance Monitoring",
+          "3": "Analytical Advising Services for Coaches, Scouts, and Players",
+          "4": "Youth Player Projections and Analytical Counseling",
+          "5": "Training Session Optimization and Health Monitoring"
+        }
+      },
+      "generalConsulting": {
+        "0": {
+          "title": "Predictive Modelling and Machine Learning",
+          "text": "At Kin Analytics, our knowledge of statistical modelling goes well beyond risk and financial management. We are capable of building predictive models for any industry to match a wide range of needs, such as: sales and costs forecasts, production levels, economic movements, customer flow, supplier chain output, and more, by using the latest Machine Learning and other statistical techniques."
+        },
+        "1": {
+          "title": "Process Automation",
+          "text": "In the same way that we help financial institutions automate their credit lending processes, we offer this ”high-tech automation” philosophy for any kind of operational process in any industry. We cover front office processes, back office maintenance, report generation & monitoring, data management, and any other internal process currently being handled manually."
+        },
+        "2": {
+          "title": "Actuarial Services",
+          "text": "We cover a wide range of actuarial services including",
+          "options": [
+            "Development of pension plans",
+            "Liquidity and overall portfolio analysis",
+            "Concentration risks and mitigation strategies",
+            "Pricing model testing and analysis"
+          ],
+          "": {}
+        },
+        "nameSub": "General Consulting"
+      },
+      "softwareDevelopment": {
+        "nameSub": "Software Development"
+      }
+    },
+    "aboutUS": {
+      "nameSub": "About Us",
+      "title": "Innovation Through Analytics",
+      "text": "Mission: To partner with any enterprise or organization to discover, create, and implement opportunities that will enable mutual evolution through the power of analytics and innovation. Kin Analytics offers analytical consulting services for all types of companies, organizations, and enterprises around the world, helping them innovate, grow, and evolve. Companies that learn how to best generate and analyze their data will survive, while those which innovate in this practice will thrive. We understand analytics as the science and art of using statistical and computer programming methods to discover, extract and create intelligence from data. Analytical methods include data mining, machine learning, big data analysis, operations research, and predictive modelling, amongst others. Analytics is today’s path to innovation.",
+      "ourMethod": {
+        "0": "Consultation with Administrators and Business Experts",
+        "1": "Analytical Study",
+        "2": "Innovation Proposal",
+        "3": "Impact Analysis",
+        "4": "Implementation",
+        "nameSub": "Our Method"
+      },
+      "atleticoKin": {
+        "nameSub": "= Atlético Kin",
+        "atleticoKin": [
+          "OurStory",
+          "Atletico Kin",
+          "Atletico Kin Academies"
+        ]
+      }
+    },
+    "blogNews": {
+      "0": {
+        "title": "We’re Hiring: Analytics Consultants",
+        "date": "November 6, 2018",
+        "text": "ANALYTICS CONSULTANT Opening Date: 11/01/2018 Two full-time positions for Quito, Ecuador and Lima, Peru.   PROFILE We are looking for two professionals with a third level degree or higher in statistics, mathematics, Data Science, computer sciences or development, econometrics, or similar careers. High learning ability and adaptation and interest and ease in traveling internationally.   KNOWLEDGE […]",
+        "author": "Iván Del Pozo"
+      },
+      "1": {
+        "title": "We’re Hiring: Front-end developer",
+        "date": "October 31, 2018",
+        "text": "FRON-END DEVELOPER   Opening Date: 10/22/2018 Full-time Quito, Ecuador   PROFILE Professional with a third level degree in systems engineering, software engineering or computer science. Interest in software development, good software engineering practices, high learning capacity and adaptation.   KNOWLEDGE Necessary: Experience in developing modern Web applications. Intermediate or advanced knowledge of React JS. Additional […]",
+        "author": "Iván Del Pozo"
+      },
+      "nameSub": "Blog & News"
+    },
+    "contact": {
+      "0": {
+        "title": "Ecuador Office (HQ)",
+        "address": "Av. República del Salvador N36-213, Edif. Suyana #701. Quito, Ecuador.",
+        "phone": "+593 99 718 6587",
+        "phone2": "USA +1 (517) 755-0013",
+        "email": "info@kinanalytics.com"
+      },
+      "1": {
+        "title": "Peru Office",
+        "address": "Calle Francisco del Castillo 627 y Avenida Tejada. Lima, Peru.",
+        "phone": "+51 972-266 810",
+        "email": "peru@kinanalytics.com"
+      },
+      "nameSub": "= Contact"
+    },
+    "idiomas": {
+      "español": "ES",
+      "ingles": "EN"
+    }
+  },
+  "footer": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "servicesProducts": "Services and Products",
+    "contactUs": "Contact Us"
+  }
+}
